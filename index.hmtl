@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="name"> Katta Koushik Reddy</div>
+        <div class="intro">
+        <p>A problem solver with a strong foundation in engineering, dedicated to using my skills in coding, data analysis, and leadership to make a positive impact on both business and technology..</p>
+        <p>Currently Studing at VIT Vellore.</p>
+        </div>
+        <div class="contact">
+            <h2>[Contact]</h2>
+            <ul>
+                <li><span class="arrow">→</span> <a href="tel:8639004645">Phone</a></li>
+                <li><span class="arrow">→</span> <a href="mailto:kattakoushikreddy2003@gmail.com">Mail</a></li>
+                <li><span class="arrow">→</span> <a href="https://github.com/kattakoushikreddy27" target="_blank">Github</a></li>
+                <li><span class="arrow">→</span> <a href="https://drive.google.com/file/d/1N-i46mkwROu8RwabQDqBmHNCszw_Czak/view" target="_blank">Resume</a></li>
+                <li><span class="arrow">→</span> <a href="https://www.linkedin.com/in/katta-koushik-reddy-153553232/" target="_blank">LinkedIn</a></li>
+            </ul>
+        </div>
+        <div class="mention">
+            
+        </div>
+    </div>
+</body>
+</html>
+
